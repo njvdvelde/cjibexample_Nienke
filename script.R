@@ -1,5 +1,3 @@
-library(mongolite)
-
 
 # Dit duurt even...
 db <- mongo(collection = "almereparkingjson",
