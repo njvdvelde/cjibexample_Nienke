@@ -16,8 +16,6 @@ parking <- db$find()
 # Of lees de CSV van ooit
 parking <- read.csv("almere_parking.csv")
 
-#Extra comment
-
 library(randomcoloR)
 
 library(ggplot2)
